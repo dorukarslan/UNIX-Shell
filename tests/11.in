@@ -1,0 +1,20 @@
+ls tests/p2a-test>/tmp/output11
+cat /tmp/output11
+rm -f /tmp/output11
+exit
+
+
+path tests
+p1.sh & p2.sh & p3.sh
+exit
+
+
+
+
+path /bin tests
+p4.sh > /tmp/output22 & p5.sh > /tmp/output22
+cat /tmp/output22
+rm -f /tmp/output22
+exit
+
+
