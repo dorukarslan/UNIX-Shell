@@ -2,9 +2,7 @@
 ### Simple Unix Shell implementation in C with parallel commands, redirection and built-in commands.
 
 
-## Sample output
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/79598598/167259115-67b4d2d3-be6b-4056-8bbc-a2d14c86d1fc.gif)
 
 -------------------------------------------
 
